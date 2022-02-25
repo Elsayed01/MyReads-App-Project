@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is an application to deal with BooksApi and get the books inside it and render it on the Homepage according to three shelves which are:
+This is an application to deal with BooksApi to get the books and render it on the Homepage according to three shelves which are:
 
 1- Currently Reading
 2- Want To Read
