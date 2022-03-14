@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is an application to deal with BooksApi and get the books inside it and render it on the Homepage according to three shelves which are:
+This is an application to deal with BooksApi to get the books and render it on the Homepage according to three shelves which are:
 
 1- Currently Reading
 2- Want To Read
@@ -12,7 +12,7 @@ with the ability to change the shelf of each book and it should highlight the cu
 
 the app also can take you to Search page by clicking on the bottom right button inside Homepage where you can search and add new books from it to your Homepage and to put it inside whatever shelf you want, considering that when you search for the book again after you had it added to some shelf on your homepage, it should highlights that shelf on the book's dropdown on the Search page.
 
-you can go to the Homepage from the Search page by clicking on the top right button inside the Search page.
+you can go to the Homepage from the Search page by clicking on the top left button inside the Search page.
 
 if by any chance you went to wrong URL the app will take you to the Error page where you will find a link when you click you on it, it will take you to the Homepage. don't worry there will be an arrow to lead you to that link :wink:
 

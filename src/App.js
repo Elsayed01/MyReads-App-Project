@@ -9,7 +9,7 @@ import SearchPage from "./SearchPage";
 import ErrorPage from "./ErrorPage";
 
 class BooksApp extends React.Component {
-  // user constructor so it runs the first thing when my app start
+  // use constructor so it runs the first thing when my app start
   constructor(props) {
     super(props);
 
